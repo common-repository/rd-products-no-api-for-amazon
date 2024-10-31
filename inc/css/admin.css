@@ -1,0 +1,509 @@
+.rd-products-no-api-for-amz-wrap{
+    width:100%;
+    max-width: 960px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 30px;
+}
+
+.rd-products-no-api-for-amz-wrap img#amz_icon{
+    width: 20px;
+    background-color: #eeeeee;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.rd-products-no-api-for-amz-wrap img#columns_icon{
+    height: 50px;
+    margin-right: 10px;
+}
+
+.rd-products-no-api-for-amz-wrap h1{
+    padding-bottom: 15px;
+    text-transform: uppercase;
+	background-image: linear-gradient(135deg, #8c475a, #8c475a);
+    padding: 15px 30px;
+    text-align: left;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.rd-products-no-api-for-amz-wrap .green{
+    color: green;
+}
+
+.rd-products-no-api-for-amz-wrap .price{
+    margin-left:-20px;
+}
+
+.rd-products-no-api-for-amz-wrap .old-price{
+    font-style: italic;
+    color: red;
+    text-decoration: line-through;
+    font-size: 30px;
+}
+
+.rd-products-no-api-for-amz-wrap .content{
+    padding: 15px 30px;
+}
+
+.rd-products-no-api-for-amz-wrap .center{
+    text-align: center;
+}
+
+.rd-products-no-api-for-amz-wrap .pro-container{
+    padding-bottom: 60px;
+}
+
+.rd-products-no-api-for-amz-wrap .pro-container p{
+    font-size: 16px;
+}
+
+.rd-products-no-api-for-amz-wrap .pro-container ol{
+    margin-bottom: 40px;
+}
+
+.rd-products-no-api-for-amz-wrap .pro-container ol li{
+    font-size: 16px;
+}
+
+.rd-products-no-api-for-amz-wrap .pro-container h2{
+    font-size: 70px;
+}
+
+.rd-products-no-api-for-amz-wrap .pro-container h3{
+    font-size: 46px;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes {
+    width: 100%;
+    text-align: center;
+    border: none;
+    margin-top: 20px;
+}
+
+.rd-products-no-api-for-amz-wrap .content table tr td span.no-shortcodes {
+    padding: 30px;
+    display: block;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes th{
+    padding: 15px 0;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes tr:nth-child(even){
+    background-color: #eee;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes tr:nth-child(odd){
+    background-color: #ccc;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes tr:first-child{
+    background-color: #333;
+    color: #fff;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes tr td:nth-child(3) {
+    padding: 10px 0;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes span{
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.rd-products-no-api-for-amz-wrap .content .message-container {
+    position: relative;
+    border:1px solid #ddd;
+    background-color:#f3f3f3;
+    padding:30px;
+    margin-bottom:30px;
+    margin-top: 15px;
+    display: none;
+}
+
+.rd-products-no-api-for-amz-wrap .content .message-container p{
+    margin-bottom:0;
+    font-style:italic;
+}
+
+.rd-products-no-api-for-amz-wrap .content .message-container p.info {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    padding: 0;
+    max-width: 500px;
+    color:#666;
+}
+
+
+.rd-products-no-api-for-amz-wrap .content .message-container button.hide-btn{
+    position: absolute;
+    color: green;
+    font-weight: bold;
+    background: transparent;
+    border: 1px solid #ddd;
+    border: 0;
+    cursor: pointer;
+    right: 15px;
+    top: 15px;
+    padding: 5px 8px;
+}
+
+.rd-products-no-api-for-amz-wrap .content .message-container button.hide-btn:hover{
+    color: #333;
+}
+
+.rd-products-no-api-for-amz-wrap .content .message-container h2{
+    padding:0;
+    color: green;
+    margin:0;
+    text-transform:uppercase;
+}
+.rd-products-no-api-for-amz-wrap .content .message-container.deleted h2{
+    color: #000;
+}
+
+.rd-products-no-api-for-amz-wrap .content .message-be-aware{
+    font-style: italic;
+    margin: 0;
+    padding: 0 5px;
+}
+
+.rd-products-no-api-for-amz-wrap .content input[type="text"] {
+    background-color:#fff;
+    border:1px solid #ccc;
+}
+
+.rd-products-no-api-for-amz-wrap .content input[type="text"].shortcode {
+    padding: 7px 15px;
+    cursor:pointer;
+    width: 100%;
+    max-width: 300px;
+    min-width: 200px;
+    text-align: center;
+}
+
+.rd-products-no-api-for-amz-wrap .content .btn {
+    padding:10px 40px;
+    text-transform:uppercase;
+    background-color:orange;
+    border: 0;
+    border-bottom: 3px solid #333;
+    border-radius:2px;
+    color:#333;
+    cursor:pointer;
+    font-weight:bold;
+    opacity: 1;
+    transition: all 0.5s;
+}
+
+.rd-products-no-api-for-amz-wrap .content .btn:hover {
+    background-color: #333;
+    color: #fff;
+}
+
+.rd-products-no-api-for-amz-wrap .content .create-shortcode-container {
+    width:100%;
+    display: inline-flex;
+    align-items: center; 
+}
+
+.rd-products-no-api-for-amz-wrap .content input[type="text"]#new_shortcode_name{
+    padding: 0 15px;
+    width: 100%;
+    max-width: 400px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.rd-products-no-api-for-amz-wrap .content h4.prev-form{
+    width:100%;
+    clear:both;
+    font-size: 16.9px;
+    font-weight:600;
+    margin-bottom:5px;
+    text-transform:uppercase;
+}
+
+.rd-products-no-api-for-amz-wrap .content button.reload-content,
+.rd-products-no-api-for-amz-wrap .content ul.icons-references li button.button-example{
+    border:0;
+    background-color: transparent;
+    font-size: 0px;
+    color: transparent;
+    background-image: url('../images/reload-red.svg');
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+}
+
+.rd-products-no-api-for-amz-wrap .content span.icons-references{
+    display: block;
+    width: 100%;
+    margin-top: 60px;
+    font-style: italic;
+    color: #666;
+}
+.rd-products-no-api-for-amz-wrap .content ul.icons-references{
+    margin-top: 0;
+    width: 100%;
+    display: inline-block;
+    background-color: #ededed;
+    border: 1px solid #ddd;
+    padding: 30px 0;
+    border-radius: 2px;
+}
+
+.rd-products-no-api-for-amz-wrap .content ul.icons-references li{
+    display: inline-block;
+    width: calc(33% - 3px);
+    text-align: center;
+    vertical-align: top;
+}
+
+.rd-products-no-api-for-amz-wrap .content button.reload-content:enabled:hover{
+    animation:rd-animation-rotation 2s linear infinite;
+}
+
+.rd-products-no-api-for-amz-wrap .content ul.icons-references li button.button-example{
+    width: 100%;
+    padding: 0;
+}
+
+.rd-products-no-api-for-amz-wrap .content ul.icons-references li span.text-button-example{
+    display: block;
+    padding: 10px 10px 0;
+    font-style: italic;
+}
+
+.rd-products-no-api-for-amz-wrap .content button.reload-content,
+.rd-products-no-api-for-amz-wrap .content ul.icons-references li button.button-example{
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.rd-products-no-api-for-amz-wrap .content button.reload-content.has-items,
+.rd-products-no-api-for-amz-wrap .content ul.icons-references li button.button-example.has-items{
+    background-image: url('../images/reload-green.svg');
+}
+
+@-moz-keyframes rd-animation-rotation {
+    100% { -moz-transform: rotate(360deg);}
+}
+
+@-webkit-keyframes rd-animation-rotation {
+    100% { -webkit-transform: rotate(360deg);}
+}
+
+@keyframes rd-animation-rotation {
+    100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }
+}
+
+.rd-products-no-api-for-amz-wrap .content button.reload-content.loading-items,
+.rd-products-no-api-for-amz-wrap .content i#loading-item{
+    background-image: url('../images/reload-orange.svg');
+    -webkit-animation:rd-animation-rotation 2s linear infinite;
+    -moz-animation:rd-animation-rotation 2s linear infinite;
+    animation:rd-animation-rotation 2s linear infinite;
+}
+
+.rd-products-no-api-for-amz-wrap .content ul.icons-references li button.button-example.loading-items{
+    background-image: url('../images/reload-orange.svg');
+}
+
+.rd-products-no-api-for-amz-wrap .content i#loading-item{
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+}
+
+.rd-products-no-api-for-amz-wrap .content input[type="submit"].remove-shortcode{
+    border:0;
+    background-color: transparent;
+    font-size: 0px;
+    color: transparent;
+    background-image: url('../images/delete-red.svg');
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+}
+
+.rd-products-no-api-for-amz-header{
+    max-width: 960px;
+}
+
+.rd-products-no-api-for-amz-header button#check_conn_btn{
+    margin-top: 30px;
+}
+
+.rd-products-no-api-for-amz-header p.rd-status{
+    padding: 16px 32px;
+    background-color: #fff;
+    border-left: 5px solid;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.rd-products-no-api-for-amz-header p.rd-status-ok{
+    border-color: green;
+}
+
+.rd-products-no-api-for-amz-header p.rd-status-none{
+    display: none;
+}
+
+.rd-products-no-api-for-amz-header p.rd-status-none,
+.rd-products-no-api-for-amz-header p.rd-status-not{
+    border-color: red;
+}
+
+@-moz-keyframes rd-animation-shake {
+    10%, 90% {
+        -moz-transform: translate3d(-1px, 0, 0);
+      }
+      
+      20%, 80% {
+        -moz-transform: translate3d(2px, 0, 0);
+      }
+    
+      30%, 50%, 70% {
+        -moz-transform: translate3d(-4px, 0, 0);
+      }
+    
+      40%, 60% {
+        -moz-transform: translate3d(4px, 0, 0);
+      }
+}
+
+@-webkit-keyframes rd-animation-shake {
+    10%, 90% {
+        -webkit-transform: translate3d(-1px, 0, 0);
+        transform: translate3d(-1px, 0, 0);
+      }
+      
+      20%, 80% {
+        -webkit-transform: translate3d(2px, 0, 0);
+        transform: translate3d(2px, 0, 0);
+      }
+    
+      30%, 50%, 70% {
+        -webkit-transform: translate3d(-4px, 0, 0);
+        transform: translate3d(-4px, 0, 0);
+      }
+    
+      40%, 60% {
+        -webkit-transform: translate3d(4px, 0, 0);
+        transform: translate3d(4px, 0, 0);
+      }
+}
+
+@keyframes rd-animation-shake {
+    100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }
+    10%, 90% {
+        -webkit-transform: translate3d(-1px, 0, 0);
+      }
+      
+      20%, 80% {
+        -webkit-transform: translate3d(2px, 0, 0);
+      }
+    
+      30%, 50%, 70% {
+        -webkit-transform: translate3d(-4px, 0, 0);
+      }
+    
+      40%, 60% {
+        -webkit-transform: translate3d(4px, 0, 0);
+      }
+}
+
+
+.rd-products-no-api-for-amz-wrap .content input[type="submit"].remove-shortcode:hover{
+    animation:rd-animation-shake 0.5s cubic-bezier(.36,.07,.19,.97) both;
+
+}
+
+.rd-products-no-api-for-amz-wrap .content #admin-button-example{
+    color: #fff;
+	border-radius: 5px;
+	font-weight: 600;
+	text-transform: uppercase;
+	opacity: 0.9;
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+	transition: all 0.2s;	
+	font-size: 14px;
+    border-bottom: 2px solid #ddd;
+    white-space: nowrap; 
+    cursor: pointer;
+    vertical-align: -moz-middle-with-baseline;
+    margin-left: 15px;
+	background-position: 12px 13px;
+	width: 160px;
+	padding: 12px 15px 10px 35px;
+    background-image: url("../images/amz-icon.png");
+    border-radius: 0;
+    display: inline-block;
+    text-align: center;
+}
+
+.rd-products-no-api-for-amz-wrap .content #admin-button-example:hover{
+	opacity: 1;
+	border-color: #bbb;
+}
+
+.rd-products-no-api-for-amz-wrap .content table#shortcodes tr#last_row {
+    background-color: #bbb;
+    background-color: orange;
+}
+
+.rd-products-no-api-for-amz-wrap .content tr#last_row td {
+    padding: 7px 30px;
+    text-align: left;
+}
+
+.rd-products-no-api-for-amz-wrap .content tr#last_row td span{
+    color: #333;
+    font-size: 12px;
+}
+
+.rd-products-no-api-for-amz-wrap .content .hide-item {
+    display: none !important;
+}
+
+.rd-products-no-api-for-amz-wrap .content .message-to-hide{
+    font-size: 0px;
+    color: transparent;
+}
+
+#rd_products_no_api_for_amz_footer p {
+    font-style: italic;
+    padding-left: 30px;
+}
+
+.rd-products-no-api-for-amz-wrap .content .create-shortcodes-container textarea {
+    width: 100%;
+}
+
+@media only screen and (max-width: 660px) {
+    .rd-products-no-api-for-amz-wrap .content ul.icons-references li{
+        width: 100%;
+    }
+
+    .rd-products-no-api-for-amz-wrap .content .create-shortcode-container {
+        display: inline;
+    }
+
+    .rd-products-no-api-for-amz-wrap .content input[type="text"]#new_shortcode_name{
+        width: 100%;
+        max-width: 100%;
+        min-width: 100%;
+        margin: 0;
+    }
+
+    .rd-products-no-api-for-amz-wrap .content .btn {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+}

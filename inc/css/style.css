@@ -1,0 +1,108 @@
+.rd-products-no-api-for-amz-container {
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 100%;
+}
+
+/*Products css*/
+.rd-products-no-api-for-amz-product {
+	overflow: hidden;
+	border-radius: 3px;
+	border:1px solid #eee;
+	padding: 25px;
+	padding: 15px 0 0;
+	background-color: #f3f3f3;
+	text-decoration: none;
+	text-align: center;
+	position: relative;
+	width: 100%;
+	margin: 15px 0;
+}
+
+.rd-products-no-api-for-amz-product .rd-products-no-api-for-amz-img-container{
+	display: block;
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+	text-align: center;
+}
+
+.rd-products-no-api-for-amz-product .rd-products-no-api-for-amz-img-container img {
+	width: auto;
+	height: 100%;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+.rd-products-no-api-for-amz-product:hover {
+	background-color: #eee;
+}
+
+.rd-products-no-api-for-amz-product p {
+	width: 100%;
+	line-height: 1.0 !important;
+	padding-top: 15px;
+	color: #666;
+	font-weight: 300;
+	font-size: 16px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 3;
+	-webkit-box-orient: vertical;
+	margin-bottom: 10px;
+	padding:10px 10px 0;
+}
+
+.rd-products-no-api-for-amz-product span{
+	color: #fff;
+	font-weight: 600;
+	text-transform: uppercase;
+	opacity: 0.9;
+	background-color:#ffa500;
+	background-position: 12px 15px;
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+	transition: all 0.2s;	
+	font-size: 14px;
+	border-bottom: 2px solid #ddd;
+	width: 100%;
+	white-space: nowrap; 
+	display: block;
+	padding: 12px 15px 10px 35px;
+	background-image: url("../images/amz-icon.png");
+}
+
+.rd-products-no-api-for-amz-product span:hover{
+	opacity: 1;
+	border-color: #bbb;
+}
+
+span.rd-help-link a {
+	font-size: 8px;
+	opacity: 0.3;
+	text-align: right;
+	width: 100%;
+}
+
+@media only screen and (min-width: 660px) {
+	.rd-products-no-api-for-amz-third {
+		width: calc((100% - 50px)/2);
+		margin: 20px 20px 0 0;  
+	}
+}
+
+@media only screen and (min-width: 960px) {
+	.rd-products-no-api-for-amz-third {
+		width: calc((100%/3) - 30px);
+		margin: 30px 20px 0 0;    
+	}
+	
+	.rd-products-no-api-for-amz-half {
+		width: calc((100% - 50px)/2);
+		margin: 20px 20px 0 0;  
+	}
+}

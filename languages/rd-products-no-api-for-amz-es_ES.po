@@ -1,0 +1,278 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-07 19:41+0100\n"
+"PO-Revision-Date: 2020-08-07 19:43+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3.1\n"
+
+#: rd-products-no-api-for-amz.php:93
+msgid "Please, add a category or keyword"
+msgstr "Porfavor, escribe una categoría o palabra clave"
+
+#: rd-products-no-api-for-amz.php:108
+msgid "Please, add categories or keywords"
+msgstr "Por favor, agregue categorías o palabras clave"
+
+#: inc/database_handler.php:144
+msgid "You don't have any shortcode created"
+msgstr "No tienes ningún shortcode creado"
+
+#: inc/database_handler.php:156
+#, php-format
+msgid "Do you want to delete %s"
+msgstr "¿Quiéres eliminar %s"
+
+#: inc/register.php:22
+msgid "CONFIGURATION"
+msgstr "CONFIGURACIÓN"
+
+#: inc/register.php:23 inc/pages/config_page.php:4
+msgid "Configuration"
+msgstr "Configuración"
+
+#: inc/register.php:32
+msgid "STYLE"
+msgstr "STYLE"
+
+#: inc/register.php:33
+msgid "Style"
+msgstr "Estilo"
+
+#: inc/register.php:52
+msgid "NEW SHORTCODE"
+msgstr "NUEVO SHORTCODE"
+
+#: inc/register.php:53
+msgid "New"
+msgstr "Nuevo"
+
+#: inc/sections.php:9
+msgid "Plugin Config"
+msgstr "Configuración Plugin"
+
+#: inc/sections.php:15
+msgid "Style Options"
+msgstr "Opciones de Estilo"
+
+#: inc/setup.php:73 inc/setup.php:212 inc/setup.php:248 inc/shortcodes.php:22
+msgid "Open in Amazon"
+msgstr "Abrir en Amazon"
+
+#: inc/setup.php:93
+msgid "Affililate Tag"
+msgstr "Tag de afiliado"
+
+#: inc/setup.php:99
+msgid "If tag field is empty a custom tag will be used"
+msgstr "Si la casilla está vacía se utilizará un tag por defecto"
+
+#: inc/setup.php:106
+msgid "Select Market"
+msgstr "Seleccionar Mercado"
+
+#: inc/setup.php:117
+msgid "Max Products"
+msgstr "Máximo de productos"
+
+#: inc/setup.php:123
+msgid "Max number of products in each category (change before search products)"
+msgstr ""
+"Número máximo de productos en cada categoría (cambiar antes de buscar "
+"productos)"
+
+#: inc/setup.php:130
+msgid "Help with a very little link below products list"
+msgstr "Ayudar con un muy pequeño enlace debajo de la lista de productos"
+
+#: inc/setup.php:142
+msgid "Delete data on remove plugin"
+msgstr "Eliminar datos al eliminar plugin"
+
+#: inc/setup.php:154
+msgid "Button Color"
+msgstr "Color del Botón"
+
+#: inc/setup.php:167
+msgid "Button Color Hover"
+msgstr "Color del Botón (Hover)"
+
+#: inc/setup.php:180
+msgid "Text Color"
+msgstr "Color del Texto"
+
+#: inc/setup.php:193
+msgid "Text Color Hover"
+msgstr "Color del Texto (Hover)"
+
+#: inc/setup.php:206
+msgid "Button Text"
+msgstr "Texto del Botón"
+
+#: inc/setup.php:218
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: inc/setup.php:230
+msgid "Number of Columns"
+msgstr "Número de Columnas"
+
+#: inc/shortcodes.php:32
+#, php-format
+msgid "Thanks to %s"
+msgstr "Gracias a %s"
+
+#: inc/pages/create_shortcode_page.php:3
+msgid "Add new Shortcode"
+msgstr "Añadir Shortcode nuevo"
+
+#: inc/pages/create_shortcode_page.php:10
+msgid "created"
+msgstr "creado"
+
+#: inc/pages/create_shortcode_page.php:11
+msgid "Copy the shortcode inside your post or page"
+msgstr "Copia el shortcode en tu página o entrada"
+
+#: inc/pages/create_shortcode_page.php:13
+msgid ""
+"Your products will be ready in a few seconds. Check the shortcodes menu for "
+"more info or keep adding more categories"
+msgstr ""
+"Tus productos estarán listos en unos segundos. Comprueba el menú de "
+"shortcodes para más información o sigue añadiendo más categorías"
+
+#: inc/pages/create_shortcode_page.php:17
+msgid "Add here your category or keyword"
+msgstr "Escribe aquí tu categoría o palabra clave"
+
+#: inc/pages/create_shortcode_page.php:19
+msgid "Category or keyword"
+msgstr "Categoría o palabra clave"
+
+#: inc/pages/create_shortcode_page.php:20
+msgid "Create shortcode"
+msgstr "Crear shortcode"
+
+#: inc/pages/create_shortcode_page.php:23
+#: inc/pages/create_shortcode_page.php:43
+msgid "Be aware with specials chars"
+msgstr "Ten cuidado con los carácteres especiales"
+
+#: inc/pages/create_shortcode_page.php:29
+msgid "Add Multiple Shortcodes"
+msgstr "Añadir varios shortcodes"
+
+#: inc/pages/create_shortcode_page.php:34
+msgid "Add here your categories or keywords (One by line)"
+msgstr "Añade aquí tus categorías o palabras clave (Una por línea)"
+
+#: inc/pages/create_shortcode_page.php:37
+msgid "Categories or keywords (One by line)"
+msgstr "Categorías o palabras clave (Una por línea)"
+
+#: inc/pages/create_shortcode_page.php:39
+msgid "Create shortcodes"
+msgstr "Crear shortcodes"
+
+#: inc/pages/rd_footer.php:2
+msgid "Thank you for use"
+msgstr "Gracias por utilizar"
+
+#: inc/pages/rd_header.php:6
+#, php-format
+msgid "Test connection with %s"
+msgstr "Probar conexión con %s"
+
+#: inc/pages/rd_header.php:11
+msgid "Checking connection..."
+msgstr "Comprobando conexión..."
+
+#: inc/pages/rd_header.php:15
+msgid ""
+"This plugin may not work with your server. Select your market and TEST the "
+"connection before."
+msgstr ""
+"Es posible que este plugin no funcione con tu servidor. Selecciona tu "
+"mercado y PRUEBA la conexión antes."
+
+#: inc/pages/shortcodes_page.php:4
+msgid "Your shortcodes"
+msgstr "Tus shortcodes"
+
+#: inc/pages/shortcodes_page.php:17
+msgid "Shortcode Deleted"
+msgstr "Shortcode Eliminado"
+
+#: inc/pages/shortcodes_page.php:24
+msgid "Remove"
+msgstr "Borrar"
+
+#: inc/pages/shortcodes_page.php:25
+msgid "Name"
+msgstr "Nombre"
+
+#: inc/pages/shortcodes_page.php:26
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/pages/shortcodes_page.php:27
+msgid "Reload"
+msgstr "Recargar"
+
+#: inc/pages/shortcodes_page.php:35
+msgid "Reference and Tips"
+msgstr "Referencias y consejos"
+
+#: inc/pages/shortcodes_page.php:37
+msgid ""
+"The shortcode doesn't have products.</br>Reload the page if you just created "
+"the shortcode or click to try again."
+msgstr ""
+"El shortcode no tiene productos.</br>Recarga la página is acabas de crear el "
+"shortcode o haz clic para volver a intentarlo."
+
+#: inc/pages/shortcodes_page.php:38
+msgid ""
+"The shortcode is searching for new products.</br>Wait a moment until it ends."
+"</br>You can close this tab if you want."
+msgstr ""
+"El shortcode está buscando productos nuevos.</br>Espera un momento hasta que "
+"finalice.</br>Puedes cerrar esta pestaña si quieres."
+
+#: inc/pages/shortcodes_page.php:39
+msgid ""
+"The shortcode has products.</br>Use the shortcode where you need.</br>You "
+"can refresh the products if you want."
+msgstr ""
+"El shortcode tiene productos.</br>Utiliza el shortcode donde lo necesites.</"
+"br>Puedes volver a buscar si quieres."
+
+#: inc/pages/style_page.php:2
+msgid "Products style"
+msgstr "Opciones de Estilo"
+
+#: inc/worker/worker.php:50
+#, php-format
+msgid "Connection with %s is working correctly"
+msgstr "La conexión con %s funciona correctamente"
+
+#: inc/worker/worker.php:55
+#, php-format
+msgid ""
+"Connection with %s is NOT working. Try another market or refresh the page to "
+"try again."
+msgstr ""
+"La conexión con %s NO está funcionando. Prueba otro mercado o actualiza la "
+"página para volver a intentarlo."
